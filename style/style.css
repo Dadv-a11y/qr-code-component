@@ -1,0 +1,25 @@
+body{ 
+    text-align: center;
+    background-color: rgb(113, 158, 158);
+    font-size: 0.4em;
+}
+p{
+    font-size: 1.5em;
+}
+.content{
+    margin: 13% 43% 9% 43%;
+    border: white solid;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+.content div img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.attribution { font-size: 11px; 
+    text-align: center; 
+}
+    .attribution a { color: hsl(228, 45%, 44%); 
+}

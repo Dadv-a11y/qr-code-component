@@ -1,0 +1,24 @@
+@media screen and (min-width :300px) and (max-width:650px){
+    .content{
+        margin: 30% 13% 15% 13%;
+        padding: 15px;
+     }
+     body{
+         font-size: 0.60em;
+     }
+     p{
+        font-size:1.5em ;
+     }
+}
+@media screen and (min-width:650px) and ( max-width:1024px){
+    .content{
+        margin: 5% 13% 5% 13%;
+        padding: 25px;
+     }
+     body{
+         font-size: 1.2em;
+     }
+     p{
+        font-size:1.75em ;
+     }
+}
